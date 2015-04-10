@@ -1,0 +1,119 @@
+.body {
+	background-color:#F6F6F6;
+	
+}
+
+#wrapper {
+	height:auto;
+	width:100%;
+	margin: auto;
+	
+}
+
+#header {
+	height:30px;
+	width:100%;
+	background-color:#000;
+	border-radius:7 7 0 0;
+}
+
+#login_menu {
+	height:30px;
+	width:150px;
+	color:#FFF;
+	float:right;
+	overflow:hidden;
+}
+
+ul
+{
+	float:left;
+	width:100%;
+	padding:0;
+	margin:0;
+	list-style-type:none;
+}
+
+a
+{
+	float:left;
+	text-decoration:none;
+	color:white;
+	padding: 00px 10px 0px 10px;	
+
+}
+	a:hover {background-color:#39C;}
+
+
+li {
+	display:inline;
+
+	}
+
+
+
+#header_main {
+	height:90px;
+	width:100%;
+	background-color:#39C;
+}
+
+#logo {
+	height:70px;
+	width:200px;
+	float:left;
+	overflow:hidden;
+	margin:10 0 0 10;
+}
+
+#search_box {
+	height:40px;
+	width:250px;
+	float:right;
+	background-image:url(images/search.png);
+	margin:40 10 0 0;
+	overflow:hidden;
+}
+
+#menu {
+	height:40px;
+	width:100%;
+	background-color:#ececec;
+	
+}
+
+
+
+#container {
+	height:100%;
+	width:100%;
+	background-color:#C5C5C5;
+	margin: 0 auto;
+	
+}
+
+#container_main {
+	height:100%;
+	width:100%;
+	background-color:#C5C5C5;
+	padding-top:100px;
+	margin: 0 auto;
+	
+}
+
+#container_login {
+	height:200px;
+	width:500px;
+	background-color:#39C;
+	border-radius:10px;
+	padding-top:10px;
+	margin:0 auto;
+}
+
+#footer {
+	height:30px;
+	width:100%;
+	background-color:#000;
+	border-radius: 0 0 10 10;
+}
+
